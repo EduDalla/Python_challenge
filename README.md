@@ -1,6 +1,18 @@
 # README
 
-## Título do Projeto: Sistema de Interação com Usuário
+## INTEGRANTES
+Alexia Ramalho - 558385
+
+Eduardo Dallabella - 556803
+
+Hellen Moura - 559008
+
+Heloísa Real - 554535
+
+Lorenzo Acquesta - 557397
+
+
+## Sistema do site
 
 Este projeto é um sistema interativo baseado em Python que lida com a dinâmica do site da formula-e que meu grupo criou para Challenge, tendo navegação por diferentes seções e interações com o usuário. O projeto utiliza expressões regulares para validação de email e fornece várias utilidades para validação de entrada do usuário e navegação.
 
